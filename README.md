@@ -1,1 +1,1 @@
-# AndroidStudioBookDemos
+# 《用Studio开发Android实用指导》的配套文件 
